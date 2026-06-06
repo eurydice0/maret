@@ -15,6 +15,15 @@ function About() {
             </p>
           </div>
         </div>
+
+        {/* Struktur Organisasi */}
+        <div className="row mt-5">
+          <div className="col-12 text-center">
+            <h2 className="main-title">STRUKTUR ORGANISASI</h2>
+            <img alt="struktur organisasi" src="./img/struktur.png" className="img-fluid mt-3" />
+          </div>
+        </div>
+
       </div>
     </>
   );
