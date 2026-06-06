@@ -70,7 +70,7 @@ function Navbar() {
                 duration={1000}
                 activeClass="active"
               >
-                About
+                Tentang
               </Link>
             </li>
             <li>
@@ -82,7 +82,7 @@ function Navbar() {
                 duration={1000}
                 activeClass="active"
               >
-                Contact
+                Kontak
               </Link>
             </li>
           </ul>

@@ -32,13 +32,13 @@ Pantai Indah Kapuk, Jakarta Utara, 14470
                   > Home </Link>
                   </li>
                   <li>
-                  <Link to="services" spy={true} smooth={true} duration={1000} > Services </Link>
+                  <Link to="services" spy={true} smooth={true} duration={1000} > Program Kami </Link>
                   </li>
                   <li>
-                  <Link to="about-scroll" spy={true} smooth={true} duration={1000}>About Us  </Link>
+                  <Link to="about-scroll" spy={true} smooth={true} duration={1000}> Tentang Kami  </Link>
                   </li>
                   <li>
-                  <Link to="contact" spy={true} smooth={true} duration={1000}> Contact  </Link>
+                  <Link to="contact" spy={true} smooth={true} duration={1000}> Kontak Kami  </Link>
                   </li>
                 </ul>
               </div>
@@ -47,7 +47,7 @@ Pantai Indah Kapuk, Jakarta Utara, 14470
           <div className="side2">
             <div className="row">
               <div className="col-md-3">
-                <p className="footer-title">Contact</p>
+                <p className="footer-title">Kontak</p>
                 <ul>
                   <li>
                     <Link to="#"> <b><pre>Email</pre></b> kontak@indomaret.co.id</Link>
