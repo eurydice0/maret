@@ -29,6 +29,22 @@ function About() {
           </div>
         </div>
 
+        {/* Visi & Misi */}
+<div className="row mt-5">
+  <div className="col-md-6">
+    <h2 className="main-title about-h2">VISI</h2>
+    <p className="main-p">
+      Menjadi aset nasional dalam mewujudkan kesejahteraan masyarakat Indonesia yang luas dan merata.
+    </p>
+  </div>
+  <div className="col-md-6">
+    <h2 className="main-title about-h2">MISI</h2>
+    <p className="main-p">
+      Mudah & Hemat — Memudahkan dan menghemat waktu dan biaya dalam memenuhi kebutuhan hidup sehari-hari.
+    </p>
+  </div>
+</div>
+
       </div>
     </>
   );
