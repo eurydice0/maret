@@ -34,13 +34,13 @@ function About() {
   <div className="col-md-6">
     <h2 className="main-title about-h2">VISI</h2>
     <p className="main-p">
-      Menjadi aset nasional dalam mewujudkan kesejahteraan masyarakat Indonesia yang luas dan merata.
+     Menjadi aset nasional dalam bentuk jaringan ritel waralaba yang unggul dalam persaingan global.
     </p>
   </div>
   <div className="col-md-6">
     <h2 className="main-title about-h2">MISI</h2>
     <p className="main-p">
-      Mudah & Hemat — Memudahkan dan menghemat waktu dan biaya dalam memenuhi kebutuhan hidup sehari-hari.
+      Melayani serta memberi solusi bagi masyarakat dalam memenuhi kebutuhan produk maupun jasa dengan mudah dan hemat.
     </p>
   </div>
 </div>
