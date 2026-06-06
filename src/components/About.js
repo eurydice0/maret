@@ -21,7 +21,7 @@ function About() {
   <div className="col-12 text-center">
     <h2 className="main-title about-h2">STRUKTUR ORGANISASI</h2>
     <img 
-      alt="struktur organisasi" 
+      alt="struktur-organisasi" 
       src="./img/struktur-organisasi.png" 
       className="img-fluid mt-3"
       style={{display:'block', margin:'0 auto'}}
