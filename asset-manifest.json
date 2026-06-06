@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/maret/static/css/main.1a38ffb9.css",
-    "main.js": "/maret/static/js/main.3bf98950.js",
+    "main.js": "/maret/static/js/main.701329f7.js",
     "index.html": "/maret/index.html",
     "main.1a38ffb9.css.map": "/maret/static/css/main.1a38ffb9.css.map",
-    "main.3bf98950.js.map": "/maret/static/js/main.3bf98950.js.map"
+    "main.701329f7.js.map": "/maret/static/js/main.701329f7.js.map"
   },
   "entrypoints": [
     "static/css/main.1a38ffb9.css",
-    "static/js/main.3bf98950.js"
+    "static/js/main.701329f7.js"
   ]
 }
