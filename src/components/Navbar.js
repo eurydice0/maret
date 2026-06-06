@@ -58,7 +58,7 @@ function Navbar() {
                 smooth={true}
                 duration={1000}
               >
-                Services
+                Program Kami
               </Link>
             </li>
             <li>
