@@ -24,6 +24,7 @@ function About() {
               alt="struktur organisasi" 
               src="./img/struktur-organisasi.png" 
               className="img-fluid mt-3" 
+              style={{width:'90%', display:'block', margin:'0 auto'}}
             />
           </div>
         </div>
