@@ -17,17 +17,16 @@ function About() {
         </div>
 
         {/* Struktur Organisasi */}
-<div className="row mt-5">
-  <div className="col-12 text-center">
-    <h2 className="main-title about-h2">STRUKTUR ORGANISASI</h2>
-    <img 
-      alt="struktur-organisasi" 
-      src="./img/struktur-organisasi.png" 
-      className="img-fluid mt-3"
-      style={{display:'block', margin:'0 auto'}}
-    />
-  </div>
-</div>
+        <div className="row mt-5">
+          <div className="col-12 text-center">
+            <h2 className="main-title about-h2">STRUKTUR ORGANISASI</h2>
+            <img 
+              alt="struktur organisasi" 
+              src="./img/struktur-organisasi.png" 
+              className="img-fluid mt-3" 
+            />
+          </div>
+        </div>
 
       </div>
     </>
